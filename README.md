@@ -16,3 +16,5 @@ This repository provides a step-by-step guide to building a Retrieval-Augmented 
 - **FastEmbed** (for embedding generation)
 - **SQLite** (for database storage)
 - **Groq AI** (for response generation)
+
+  For a detailed explanation of the code in the repository, read the full article on [How to Build Generative AI Applications]<https://www.projectpro.io/article/how-to-build-generative-ai-applications/1098>
